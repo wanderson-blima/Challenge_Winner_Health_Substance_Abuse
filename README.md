@@ -10,6 +10,8 @@ Com o **PYTHON** foi utilizado as seguintes bibliotecas:
  - Pandas_Profiling: para realização de uma análise exploratória inicial. 
  - Matplotlib e Seaborn: para plotagem dos gráficos de Dispersão e BoxPlot, que auxiliaram na realização de uma análise exploratória mais profunda e personalizada de cada feature quantitativa e qualitativa. 
 
+<a href="https://github.com/wanderson-blima/Challenge_Winner_Health_Substance_Abuse/blob/0735e105bc2012ee1ec89ee93a25a97c3d3dc7e5/Analise_Exploratoria_Health_Substance_Abuse.ipynb">LINK PARA A ANÁLISE EXPLORATORIA COM PYTHON</a>
+
 Após a análise inicial foi realizado um dashboard utilizando o **POWER BI** fazendo diversos de diversas análises avançadas, focando na liberdade e personalização das análises, permitindo que o usuário possa realizar as análises das principais features de acordo com sua necessidade. 
 
  - O Designer foi realizado utilizando o Figma, focando em uma abordagem mais clean, que permitisse maior destaques para os gráficos e pontos importantes da análise.
@@ -17,7 +19,7 @@ Após a análise inicial foi realizado um dashboard utilizando o **POWER BI** fa
  - Foi utilizado DAX Avançado para ajuste dinâmico das cores dos gráficos, permitindo que os usuários escolham se preferem os gráficos com destaque entre os valores máximos e mínimos, ou até mesmo destacar apenas os valores acima da média.
  - Utilizando tooltips personalizados, é possível aprofundar as análises de acordo com o contexto.  
 
-ACESSO AO RELATÓRIO INTERATIVO: https://www.novypro.com/project/health-substance-abuse-data-analysis
+<a href="https://www.novypro.com/project/health-substance-abuse-data-analysis">LINK PARA O RELATÓRIO INTERATIVO</a> 
 
 ## Challenge Winner Certificate - Out of the Box Thinker Category!
 

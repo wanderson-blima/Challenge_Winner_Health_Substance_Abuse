@@ -1,8 +1,8 @@
 # CAMPEÃO DO 23º DESAFIO DA ENTERPRISE DNA
 
-Vencedor da categoria "Out of the Box Thinker", o desafio consistia em analisar um conjunto de dados da área da saúde sobre abuso de substancias, através de um Dashboard no POWER BI
+Vencedor da categoria "Out of the Box Thinker", o desafio consistia em analisar um conjunto de dados da área da saúde sobre abuso de substancias, através de um Dashboard no POWER BI.
 
-Para melhores resultados foi realizado uma análise exploratória prévia utilizando PYTHON, o que permitiu descobrir quais seriam as análises mais significativas e assim  iniciar a criação do Dashboard da forma mais eficiente possível.
+Para melhores resultados foi realizado uma análise exploratória prévia utilizando PYTHON, o que permitiu descobrir quais seriam as análises mais significativas e assim  já iniciar a criação do Dashboard da forma mais eficiente possível.
 
 Com o **PYTHON** foi utilizado as seguintes bibliotecas: 
 
@@ -12,7 +12,7 @@ Com o **PYTHON** foi utilizado as seguintes bibliotecas:
 
 <a href="https://github.com/wanderson-blima/Challenge_Winner_Health_Substance_Abuse/blob/0735e105bc2012ee1ec89ee93a25a97c3d3dc7e5/Analise_Exploratoria_Health_Substance_Abuse.ipynb">LINK PARA A ANÁLISE EXPLORATORIA COM PYTHON</a>
 
-Após a análise inicial foi realizado um dashboard utilizando o **POWER BI** fazendo diversos de diversas análises avançadas, focando na liberdade e personalização das análises, permitindo que o usuário possa realizar as análises das principais features de acordo com sua necessidade. 
+Após a análise exploratória, realizei um dashboard utilizando o **POWER BI**, fazendo uso de diversos conceitos avançados, o que permitiu que o usuário possa realizar as análises das principais features de acordo com sua necessidade, agregando valor à análise de acordo com o contexto.
 
  - O Designer foi realizado utilizando o Figma, focando em uma abordagem mais clean, que permitisse maior destaques para os gráficos e pontos importantes da análise.
  - O uso avançado dos "Parâmetros de Campos" permiti que os usuários possam personalizar suas análises, alterando as features dos eixos x e y nos principais visuais. 

@@ -21,14 +21,27 @@ Após a análise exploratória, realizei um dashboard utilizando o **POWER BI**,
 
 <a href="https://www.novypro.com/project/health-substance-abuse-data-analysis">LINK PARA O RELATÓRIO INTERATIVO</a> 
 
-## Challenge Winner Certificate - Out of the Box Thinker Category!
-
 
 <div align="center">
-  
+
+## Challenge Winner Certificate - Out of the Box Thinker Category!
+
 <a href="https://github.com/wanderson-blima/Challenge_Winner_Health_Substance_Abuse">
   
 ![Challenge Winner Certificate](https://github.com/wanderson-blima/Challenge_Winner_Health_Substance_Abuse/blob/43006d096838619b75c4e7a87c3fecb711da002f/Wanderson%20Barbosa%20-%20Challenge%2023%20-Out%20of%20the%20Box%20Thinker%20Winner.png)
+</a>
+<br>
+## Preview Report:
+
+<a href="https://github.com/wanderson-blima/Challenge_Winner_Health_Substance_Abuse">
+  
+![Page 1](https://github.com/wanderson-blima/Challenge_Winner_Health_Substance_Abuse/blob/420613a28605e3a6aeac635169958484de759f4f/Health%20-%20Substance%20Abuse_01.jpg)
+</a>
+
+
+<a href="https://github.com/wanderson-blima/Challenge_Winner_Health_Substance_Abuse">
+  
+![Page 2](https://github.com/wanderson-blima/Challenge_Winner_Health_Substance_Abuse/blob/420613a28605e3a6aeac635169958484de759f4f/Health%20-%20Substance%20Abuse_02.jpg)
 </a>
 </div>
 <br>

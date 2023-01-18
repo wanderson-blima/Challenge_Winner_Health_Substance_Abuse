@@ -1,4 +1,4 @@
-# CAMPEÃO DO 23º DESAFIO DA ENTERPRISE DNA
+# CAMPEÃO DO 23º DESAFIO DE POWER BI DA ENTERPRISE DNA
 
 Vencedor da categoria "Out of the Box Thinker", o desafio consistia em analisar um conjunto de dados da área da saúde sobre abuso de substancias, através de um Dashboard no POWER BI.
 
